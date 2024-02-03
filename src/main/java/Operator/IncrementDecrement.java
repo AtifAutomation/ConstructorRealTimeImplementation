@@ -11,6 +11,10 @@ public class IncrementDecrement {
         System.out.println(num++ + num++ + ++num + num + ++num +num++);
         System.out.println(num); //16
         //11 + 12 + 14 + 14 + 15 + 15 = 81
+        //prefix
+        // increment the value and then perform  the action
+
+        System.out.println(++num);
 
     }
 }
