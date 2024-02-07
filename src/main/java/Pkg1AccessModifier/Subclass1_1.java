@@ -6,6 +6,7 @@ public class Subclass1_1 extends Class1{
     {
         //method of class 1 we can access automatically
         method1();
+        System.out.println(x);
         method2();
     }
 }
